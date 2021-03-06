@@ -9,8 +9,6 @@ import javafx.stage.Stage;
 import model.Inventory;
 
 /**
- * This is the entry point to the QKM2 Task 1 Inventory Management Application for C482 Software I.
- * The javadoc HTML files are located in the javadoc folder, which is on the same level as src.
  * @author Brandon McCleary
  */
 public class Main extends Application {
